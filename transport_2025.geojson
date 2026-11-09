@@ -1,0 +1,1739 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "с Борисовка",
+        "oktmo": "3720000116",
+        "population": 3188.0,
+        "trips": 773.6825595984943,
+        "has_data": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.69424798100005,
+          44.75517652200006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "х Семигорский",
+        "oktmo": "3720000201",
+        "population": 400.0,
+        "trips": 268.75,
+        "has_data": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.60527312000005,
+          44.88251437200007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "г Краснодар",
+        "oktmo": "3701000001",
+        "population": 918145.0,
+        "trips": 95.76819565537033,
+        "has_data": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.97531518200003,
+          45.03547166900007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ст-ца Раевская",
+        "oktmo": "3720000191",
+        "population": 10020.0,
+        "trips": 82.9940119760479,
+        "has_data": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.54969185200008,
+          44.83628295800003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ст-ца Голубицкая",
+        "oktmo": "3651407101",
+        "population": 5570.0,
+        "trips": 78.1867145421903,
+        "has_data": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.27495819900003,
+          45.32331798900003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "г Новороссийск",
+        "oktmo": "3720000001",
+        "population": 275197.0,
+        "trips": 75.41564769964789,
+        "has_data": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.76880947300003,
+          44.72377252300003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "с Абрау-Дюрсо",
+        "oktmo": "3720000106",
+        "population": 3519.0,
+        "trips": 74.16879795396419,
+        "has_data": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.60302867500008,
+          44.69862348800007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "г Туапсе",
+        "oktmo": "3555000001",
+        "population": 61180.0,
+        "trips": 72.36204642039883,
+        "has_data": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.07309771800004,
+          44.09464322200006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "г Анапа",
+        "oktmo": "3501000001",
+        "population": 75865.0,
+        "trips": 67.38957358465696,
+        "has_data": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.31617741700006,
+          44.89496496000004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "с Мысхако",
+        "oktmo": "3720000176",
+        "population": 7954.0,
+        "trips": 64.75986924817701,
+        "has_data": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.76052452000005,
+          44.65729526000007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "г Апшеронск",
+        "oktmo": "3605101001",
+        "population": 39762.0,
+        "trips": 48.09441174991198,
+        "has_data": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.72678523100006,
+          44.46539911900004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ст-ца Фастовецкая",
+        "oktmo": "3654422101",
+        "population": 8700.0,
+        "trips": 41.33793103448276,
+        "has_data": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.15219907900007,
+          45.91723689400004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "с Гайдук",
+        "oktmo": "3720000136",
+        "population": 7484.0,
+        "trips": 39.61785141635489,
+        "has_data": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.69916385000005,
+          44.78376324900007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "г Славянск-на-Кубани",
+        "oktmo": "3645101001",
+        "population": 67919.0,
+        "trips": 37.19062412579691,
+        "has_data": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.12822320300006,
+          45.26032972600007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "г Курганинск",
+        "oktmo": "3627101001",
+        "population": 48689.0,
+        "trips": 29.48633161494383,
+        "has_data": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.59137149000003,
+          44.88764678600006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ст-ца Новотитаровская",
+        "oktmo": "3614416101",
+        "population": 24754.0,
+        "trips": 28.83170396703563,
+        "has_data": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.97176800600005,
+          45.23654820300004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "г Кропоткин",
+        "oktmo": "3618101001",
+        "population": 78631.0,
+        "trips": 27.50314761353665,
+        "has_data": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.57599899300004,
+          45.43469233600007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "г Приморско-Ахтарск",
+        "oktmo": "3541000001",
+        "population": 32048.0,
+        "trips": 26.4053919121318,
+        "has_data": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.17765185500008,
+          46.04350736400005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "г Крымск",
+        "oktmo": "3625101001",
+        "population": 57927.0,
+        "trips": 25.3570873685846,
+        "has_data": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.98792613200004,
+          44.93543180200004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "г Лабинск",
+        "oktmo": "3630101001",
+        "population": 60164.0,
+        "trips": 24.84043614121401,
+        "has_data": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.72357706200006,
+          44.63571639800006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "г Абинск",
+        "oktmo": "3601101001",
+        "population": 39058.0,
+        "trips": 23.5593220338983,
+        "has_data": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.15116890200004,
+          44.86626065300004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "г Армавир",
+        "oktmo": "3705000001",
+        "population": 190709.0,
+        "trips": 23.39994441793518,
+        "has_data": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.12964662100006,
+          44.99765546100008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "г Белореченск",
+        "oktmo": "3608101001",
+        "population": 51590.0,
+        "trips": 21.98139174258577,
+        "has_data": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.86848939600003,
+          44.76601525800004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "г Темрюк",
+        "oktmo": "3651101001",
+        "population": 41413.0,
+        "trips": 20.20621543959626,
+        "has_data": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.36538557600005,
+          45.28204644100003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "г Тихорецк",
+        "oktmo": "3654101001",
+        "population": 57098.0,
+        "trips": 19.44936775368664,
+        "has_data": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.12316849400003,
+          45.85278180900008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "пгт Ильский",
+        "oktmo": "3643155051",
+        "population": 25502.0,
+        "trips": 17.12414712571563,
+        "has_data": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.56199949600006,
+          44.83594309500006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ст-ца Каневская",
+        "oktmo": "3620402101",
+        "population": 44386.0,
+        "trips": 15.78200333438472,
+        "has_data": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.97195102600006,
+          46.08480547100004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ст-ца Северская",
+        "oktmo": "3643413101",
+        "population": 22500.0,
+        "trips": 11.88,
+        "has_data": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.68194263400004,
+          44.85376168600004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ст-ца Новопокровская",
+        "oktmo": "3635419101",
+        "population": 19100.0,
+        "trips": 8.613089005235603,
+        "has_data": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.70700853900007,
+          45.95382928400005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ст-ца Елизаветинская",
+        "oktmo": "3701000131",
+        "population": 24755.0,
+        "trips": 4.457281357301556,
+        "has_data": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.79990137400006,
+          45.04843247500003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "аул Псебе",
+        "oktmo": "3555000150",
+        "population": 530.0,
+        "trips": null,
+        "has_data": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.95421921000008,
+          44.28590791600004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "г Геленджик",
+        "oktmo": "3708000001",
+        "population": 76783.0,
+        "trips": null,
+        "has_data": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.07711747600007,
+          44.56101059700006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "г Горячий Ключ",
+        "oktmo": "3504000001",
+        "population": 40299.0,
+        "trips": null,
+        "has_data": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.13642878600007,
+          44.63424708100007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "г Ейск",
+        "oktmo": "3616101001",
+        "population": 83094.0,
+        "trips": null,
+        "has_data": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.27265759900007,
+          46.71194140300003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "г Кореновск",
+        "oktmo": "3621101001",
+        "population": 42019.0,
+        "trips": null,
+        "has_data": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.44803785800008,
+          45.46274323300003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "г Новокубанск",
+        "oktmo": "3634101001",
+        "population": 35287.0,
+        "trips": null,
+        "has_data": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.04393290100006,
+          45.10379761600007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "г Сочи",
+        "oktmo": "3726000001",
+        "population": 443562.0,
+        "trips": null,
+        "has_data": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.72309522300003,
+          43.58547514500003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "г Тимашевск",
+        "oktmo": "3653101001",
+        "population": 50792.0,
+        "trips": null,
+        "has_data": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.93396989600006,
+          45.61420253400007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "г Хадыженск",
+        "oktmo": "3605109001",
+        "population": 22468.0,
+        "trips": null,
+        "has_data": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.53732771800003,
+          44.42280476800005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "п Большевик",
+        "oktmo": "3616421106",
+        "population": 300.0,
+        "trips": null,
+        "has_data": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.23424861800004,
+          46.51466563000008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "п Газырь",
+        "oktmo": "3612416101",
+        "population": 2100.0,
+        "trips": null,
+        "has_data": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.93330883100003,
+          45.74617476400005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "п Знаменский",
+        "oktmo": "3701000141",
+        "population": 6242.0,
+        "trips": null,
+        "has_data": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.15021325200007,
+          45.05404852700008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "п Индустриальный",
+        "oktmo": "3701000151",
+        "population": 4785.0,
+        "trips": null,
+        "has_data": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.10713536600008,
+          45.09245112100007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "п Комсомолец",
+        "oktmo": "3616416101",
+        "population": 2033.0,
+        "trips": null,
+        "has_data": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.26147440500006,
+          46.57925477600003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "п Лазурный",
+        "oktmo": "3701000176",
+        "population": 2754.0,
+        "trips": null,
+        "has_data": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.12728824700002,
+          45.15261844300005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "п Парковый",
+        "oktmo": "3654416101",
+        "population": 4500.0,
+        "trips": null,
+        "has_data": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.14686825300003,
+          45.83803316000007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "п Совхозный",
+        "oktmo": "3645414101",
+        "population": 3900.0,
+        "trips": null,
+        "has_data": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.11215919000006,
+          45.29396497100004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "п Широчанка",
+        "oktmo": "3616101136",
+        "population": 6025.0,
+        "trips": null,
+        "has_data": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.33207965800005,
+          46.65902803600004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "пгт Афипский",
+        "oktmo": "3643152051",
+        "population": 21499.0,
+        "trips": null,
+        "has_data": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.84112912000006,
+          44.90334976100007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "пгт Ахтырский",
+        "oktmo": "3601153051",
+        "population": 21067.0,
+        "trips": null,
+        "has_data": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.29982924800004,
+          44.85035809400006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "пгт Гирей",
+        "oktmo": "3613154051",
+        "population": 6363.0,
+        "trips": null,
+        "has_data": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.66420188000006,
+          45.40526728900005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "пгт Мостовской",
+        "oktmo": "3633151051",
+        "population": 24975.0,
+        "trips": null,
+        "has_data": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.79028228300007,
+          44.41436103900003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "пгт Нефтегорск",
+        "oktmo": "3605157051",
+        "population": 4968.0,
+        "trips": null,
+        "has_data": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.70427949100008,
+          44.35368171900006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "пгт Псебай",
+        "oktmo": "3633156051",
+        "population": 10533.0,
+        "trips": null,
+        "has_data": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.79860060900006,
+          44.11608088900005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "с Архипо-Осиповка",
+        "oktmo": "3708000111",
+        "population": 6100.0,
+        "trips": null,
+        "has_data": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.53339777500003,
+          44.37010358300006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "с Белая Глина",
+        "oktmo": "3607402101",
+        "population": 17800.0,
+        "trips": null,
+        "has_data": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.87133077800007,
+          46.07366965800003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "с Беноково",
+        "oktmo": "3633410101",
+        "population": 1900.0,
+        "trips": null,
+        "has_data": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.67768482700006,
+          44.41960851600004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "с Благодарное",
+        "oktmo": "3637402101",
+        "population": 1700.0,
+        "trips": null,
+        "has_data": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.54330945200007,
+          44.49693674400004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "с Варнавинское",
+        "oktmo": "3601401101",
+        "population": 1200.0,
+        "trips": null,
+        "has_data": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.19529810200004,
+          44.99364646300006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "с Витязево",
+        "oktmo": "3501000114",
+        "population": 7936.0,
+        "trips": null,
+        "has_data": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.28380788400005,
+          45.00235891800003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "с Гай-Кодзор",
+        "oktmo": "3501000116",
+        "population": 3662.0,
+        "trips": null,
+        "has_data": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.43774288300006,
+          44.85440078900007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "с Георгиевское",
+        "oktmo": "3555000112",
+        "population": 1606.0,
+        "trips": null,
+        "has_data": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.25423287900004,
+          44.16281726900007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "с Кирилловка",
+        "oktmo": "3720000161",
+        "population": 1350.0,
+        "trips": null,
+        "has_data": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.72647601800004,
+          44.76802107300006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "с Михайловское",
+        "oktmo": "3643408101",
+        "population": 1700.0,
+        "trips": null,
+        "has_data": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.50346550100005,
+          45.00856210200004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "с Навагинское",
+        "oktmo": "3555000137",
+        "population": 270.0,
+        "trips": null,
+        "has_data": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.33808004900004,
+          44.36695263900003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "с Пластунка",
+        "oktmo": "3726000406",
+        "population": 2498.0,
+        "trips": null,
+        "has_data": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.76101148600003,
+          43.68249091300004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "с Русское",
+        "oktmo": "3625419176",
+        "population": 500.0,
+        "trips": null,
+        "has_data": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.84022238200003,
+          44.95988398200006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "с Суворовское",
+        "oktmo": "3657431101",
+        "population": 2704.0,
+        "trips": null,
+        "has_data": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.43476673700007,
+          45.27711642700007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "с Супсех",
+        "oktmo": "3501000143",
+        "population": 8744.0,
+        "trips": null,
+        "has_data": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.35824208700006,
+          44.86078796100004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "с Цибанобалка",
+        "oktmo": "3501000148",
+        "population": 5452.0,
+        "trips": null,
+        "has_data": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.33374878700005,
+          44.97839009300003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "с Цыпка",
+        "oktmo": "3555000157",
+        "population": 750.0,
+        "trips": null,
+        "has_data": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.17782301500006,
+          44.15759902100007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ст-ца Анапская",
+        "oktmo": "3501000102",
+        "population": 18978.0,
+        "trips": null,
+        "has_data": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.38129201900006,
+          44.90034478800004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ст-ца Анастасиевская",
+        "oktmo": "3645402101",
+        "population": 11000.0,
+        "trips": null,
+        "has_data": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.89477346700005,
+          45.21563244800006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ст-ца Брюховецкая",
+        "oktmo": "3610407101",
+        "population": 22000.0,
+        "trips": null,
+        "has_data": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.99729355100004,
+          45.80200034200004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ст-ца Выселки",
+        "oktmo": "3612413101",
+        "population": 20798.0,
+        "trips": null,
+        "has_data": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.65541559200005,
+          45.58004261500002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ст-ца Динская",
+        "oktmo": "3614404101",
+        "population": 34100.0,
+        "trips": null,
+        "has_data": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.22307091900007,
+          45.21857886800007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ст-ца Ивановская",
+        "oktmo": "3623407101",
+        "population": 9643.0,
+        "trips": null,
+        "has_data": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.46520720400008,
+          45.26941880800007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ст-ца Кабардинская",
+        "oktmo": "3605407101",
+        "population": 2300.0,
+        "trips": null,
+        "has_data": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.49356168700007,
+          44.49518901900007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ст-ца Кущевская",
+        "oktmo": "3628416101",
+        "population": 23000.0,
+        "trips": null,
+        "has_data": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.62210489300004,
+          46.55695526900007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ст-ца Ленинградская",
+        "oktmo": "3532000101",
+        "population": 38200.0,
+        "trips": null,
+        "has_data": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.39288827000007,
+          46.32055133800003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ст-ца Марьянская",
+        "oktmo": "3623412101",
+        "population": 11169.0,
+        "trips": null,
+        "has_data": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.63621326100008,
+          45.09899384400006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ст-ца Натухаевская",
+        "oktmo": "3720000181",
+        "population": 6922.0,
+        "trips": null,
+        "has_data": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.56959004000004,
+          44.91214149500007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ст-ца Нижнебаканская",
+        "oktmo": "3625412101",
+        "population": 8500.0,
+        "trips": null,
+        "has_data": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.86664981600006,
+          44.86654839000005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ст-ца Новоджерелиевская",
+        "oktmo": "3610410101",
+        "population": 5300.0,
+        "trips": null,
+        "has_data": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.67127694100003,
+          45.77449500100005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ст-ца Новомалороссийская",
+        "oktmo": "3612425101",
+        "population": 7000.0,
+        "trips": null,
+        "has_data": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.89716465300006,
+          45.63789995500008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ст-ца Павловская",
+        "oktmo": "3639428101",
+        "population": 30700.0,
+        "trips": null,
+        "has_data": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.79096826700004,
+          46.13053995300004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ст-ца Полтавская",
+        "oktmo": "3623410101",
+        "population": 26365.0,
+        "trips": null,
+        "has_data": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.21147221500007,
+          45.36680348900006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ст-ца Роговская",
+        "oktmo": "3653428101",
+        "population": 8300.0,
+        "trips": null,
+        "has_data": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.73495704000004,
+          45.73294802200007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ст-ца Саратовская",
+        "oktmo": "3504000122",
+        "population": 6000.0,
+        "trips": null,
+        "has_data": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.23014915400007,
+          44.70714949700005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ст-ца Советская",
+        "oktmo": "3634431101",
+        "population": 10000.0,
+        "trips": null,
+        "has_data": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.17025237200005,
+          44.78305776300004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ст-ца Старотитаровская",
+        "oktmo": "3651422101",
+        "population": 12200.0,
+        "trips": null,
+        "has_data": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.15951473800004,
+          45.22469757500005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ст-ца Тамань",
+        "oktmo": "3651425101",
+        "population": 11672.0,
+        "trips": null,
+        "has_data": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.71841685900006,
+          45.21561150200006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ст-ца Тбилисская",
+        "oktmo": "3649419101",
+        "population": 24100.0,
+        "trips": null,
+        "has_data": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.20177066900004,
+          45.36452813900007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ст-ца Холмская",
+        "oktmo": "3601408101",
+        "population": 17300.0,
+        "trips": null,
+        "has_data": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.38923227100003,
+          44.84804441800003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ст-ца Шкуринская",
+        "oktmo": "3628431101",
+        "population": 4900.0,
+        "trips": null,
+        "has_data": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.36484285400007,
+          46.58205118800004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "х Бараниковский",
+        "oktmo": "3645416101",
+        "population": 2700.0,
+        "trips": null,
+        "has_data": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.01787851000007,
+          45.33951188000003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "х Даманка",
+        "oktmo": "3625419121",
+        "population": 850.0,
+        "trips": null,
+        "has_data": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.78885612500004,
+          44.97066324300005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "х Киновия",
+        "oktmo": "3610422106",
+        "population": 360.0,
+        "trips": null,
+        "has_data": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.93018916900007,
+          45.90786766900004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "х Новоукраинский",
+        "oktmo": "3625413101",
+        "population": 3500.0,
+        "trips": null,
+        "has_data": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.04481460000004,
+          44.89401012400003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "х Павловский",
+        "oktmo": "3625407101",
+        "population": 1000.0,
+        "trips": null,
+        "has_data": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.77261729300005,
+          45.07394173500006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "х Терзиян",
+        "oktmo": "3555000154",
+        "population": 290.0,
+        "trips": null,
+        "has_data": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.42795988500006,
+          44.21072570000007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "х Упорный",
+        "oktmo": "3639440101",
+        "population": 1100.0,
+        "trips": null,
+        "has_data": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.98312758300005,
+          46.14542244900008
+        ]
+      }
+    }
+  ]
+}

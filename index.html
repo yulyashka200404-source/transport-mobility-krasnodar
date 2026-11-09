@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Транспортная мобильность Краснодарского края — The Sims 4 Edition</title>
+    <script src="https://unpkg.com/maplibre-gl@3.6.2/dist/maplibre-gl.js"></script>
+    <link href="https://unpkg.com/maplibre-gl@3.6.2/dist/maplibre-gl.css" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+    <div class="app-container">
+        <header class="sims-header">
+            <div class="plumbob-icon">
+                <svg viewBox="0 0 100 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M50 0L100 40L50 120L0 40L50 0Z" fill="#59B84A"/>
+                    <path d="M50 0L100 40L50 50L0 40L50 0Z" fill="#B9E8A8"/>
+                    <path d="M50 50L100 40L50 120L50 50Z" fill="#238B3D"/>
+                    <path d="M50 50L0 40L50 120L50 50Z" fill="#59B84A"/>
+                </svg>
+            </div>
+            <div class="header-text">
+                <h1>КРАСНОДАРСКИЙ КРАЙ</h1>
+                <h2>Транспортная мобильность · 2025</h2>
+                <p class="subtitle">Число поездок в год на одного человека</p>
+            </div>
+        </header>
+
+        <div class="stats-dashboard">
+            <div class="stat-card">
+                <div class="stat-icon">🏘️</div>
+                <div class="stat-value" id="stat-total">0</div>
+                <div class="stat-label">Населённых пунктов на карте</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-icon">🚌</div>
+                <div class="stat-value" id="stat-simple-avg">0</div>
+                <div class="stat-label">Среднее число поездок</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-icon">⚖️</div>
+                <div class="stat-value" id="stat-weighted-avg">0</div>
+                <div class="stat-label">Средневзвешенное число поездок</div>
+            </div>
+            <div class="stat-card highlight">
+                <div class="stat-icon">🏆</div>
+                <div class="stat-value" id="stat-max-point">-</div>
+                <div class="stat-label">Лидер по мобильности</div>
+            </div>
+        </div>
+
+        <div class="main-content">
+            <div class="map-wrapper">
+                <div class="map-controls">
+                    <div class="search-box">
+                        <input type="text" id="search-input" placeholder="Поиск населённого пункта...">
+                    </div>
+                    <div class="filter-buttons">
+                        <button class="filter-btn active" data-filter="all">Все</button>
+                        <button class="filter-btn" data-filter="with-data">С данными</button>
+                        <button class="filter-btn" data-filter="no-data">Без данных</button>
+                    </div>
+                </div>
+                <div id="map"></div>
+                <div class="legend-panel">
+                    <h4>Легенда</h4>
+                    <div class="legend-item"><div class="legend-pillar small"></div><span>Малое число поездок</span></div>
+                    <div class="legend-item"><div class="legend-pillar medium"></div><span>Среднее число поездок</span></div>
+                    <div class="legend-item"><div class="legend-pillar large"></div><span>Высокое число поездок</span></div>
+                    <div class="legend-item"><div class="legend-base neutral"></div><span>Данные отсутствуют</span></div>
+                    <div class="methodology-note">* Диаметр основания пропорционален √населения.<br>* 5 НП без координат исключены из карты.</div>
+                </div>
+            </div>
+
+            <aside class="details-panel" id="details-panel">
+                <div class="panel-header">
+                    <div class="plumbob-small"></div>
+                    <h3 id="detail-name">Выберите объект</h3>
+                </div>
+                <div class="panel-content" id="detail-content">
+                    <p class="empty-state">Нажмите на любой населённый пункт на карте, чтобы увидеть его транспортные характеристики.</p>
+                </div>
+            </aside>
+        </div>
+    </div>
+    <script src="assets/scripts.js"></script>
+</body>
+</html>

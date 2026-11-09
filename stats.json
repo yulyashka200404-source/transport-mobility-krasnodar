@@ -1,0 +1,10 @@
+{
+  "total_mapped": 102,
+  "with_data": 30,
+  "without_data": 72,
+  "excluded_no_coords": 5,
+  "simple_avg": 71.62,
+  "weighted_avg": 63.48,
+  "max_trips_point": "с Борисовка",
+  "max_trips_value": 773.6825595984943
+}
